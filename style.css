@@ -1,4 +1,28 @@
-h2{
+#title{
     text-align: center;
-    background-color: red;
+    background-color:orange;
+}
+#back{
+    background-color:grey;
+    text-align:center;
+}
+#foot{
+    color:orange;
+    text-align: end;
+    
+}
+#click{
+    color:orange;
+}
+#edu_h2{
+    background-color: orange;
+    color:black;
+}
+#exp_h2{
+    background-color: orange;
+    color:black;
+}
+#proj_h2{
+    background-color: orange;
+    color:black;
 }
