@@ -1,6 +1,7 @@
 #title{
     text-align: center;
     background-color:orange;
+    font-family:cursive;
 }
 #back{
     background-color:grey;
@@ -9,10 +10,12 @@
 #foot{
     color:orange;
     text-align: end;
+    font-family:cursive;
     
 }
 #click{
     color:orange;
+    font-family: cursive;
 }
 #edu_h2{
     background-color: orange;
@@ -25,4 +28,9 @@
 #proj_h2{
     background-color: orange;
     color:black;
+}
+a{
+    text-decoration: none;
+    font-family: cursive;
+    color:orange;
 }
