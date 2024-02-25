@@ -1,17 +1,15 @@
 #title{
     text-align: center;
     background-color:orange;
-    font-family:cursive;
 }
 #back{
-    background-color:grey;
+    background-color:cornflowerblue;
     text-align:center;
+    font-family:cursive;
 }
 #foot{
     color:orange;
-    text-align: end;
-    font-family:cursive;
-    
+    text-align: end;    
 }
 #click{
     color:orange;
@@ -20,14 +18,17 @@
 #edu_h2{
     background-color: orange;
     color:black;
+    font-family:cursive;
 }
 #exp_h2{
     background-color: orange;
     color:black;
+    font-family:cursive;
 }
 #proj_h2{
     background-color: orange;
     color:black;
+    font-family:cursive;
 }
 a{
     text-decoration: none;
